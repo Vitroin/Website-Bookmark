@@ -1,0 +1,42 @@
+label {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    color: rgb(33, 37, 41);
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 60px;
+    color: rgb(53, 46, 40);
+}
+
+.gradient-text {
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 30px;
+    background: linear-gradient(to right, #0c6326, #ffea00);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
+.main-p {
+    font-family: "Bree Serif", serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 27.3px;
+    color: rgb(53, 46, 40);
+}
+
+.modal-body p{
+    font-family: "PT Sans Caption", sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color: rgb(33, 37, 41);
+}
